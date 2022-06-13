@@ -1,0 +1,1 @@
+---@alias BulletColor "regular" | "cyan" | "orange" | "green"
