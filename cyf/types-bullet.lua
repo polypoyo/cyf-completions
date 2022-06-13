@@ -3,6 +3,7 @@
 ---@field y number
 ---@field absx number
 ---@field absy number
+---@field sprite Sprite
 local Bullet = {}
 
 --- Move this bullet `x` pixels to the right and `y` pixels up. 
