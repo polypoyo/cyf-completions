@@ -3,4 +3,5 @@
 ---@param initial_x number
 ---@param initial_y number
 ---@param layer string?
+---@return Bullet
 function CreateProjectile(spritename, initial_x, initial_y, layer)end
