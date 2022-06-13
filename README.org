@@ -7,3 +7,5 @@ cd whereever-cyf-is/Mods
 # ...and clone the repository into .vscode
 git clone https://github.com/polypoyo/cyf-completions.git .vscode
 #+end_src
+
+Then, install sumneko's Lua extension, (only availible in the official VSCode repo) using Ctrl+P, then "ext install sumneko.lua"
