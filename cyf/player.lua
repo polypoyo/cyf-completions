@@ -9,7 +9,7 @@
 ---@field maxhp number
 ---@field maxhpshift number
 Player = {}
---- aaa
+--- (READONLY) true if the player is currently moving in battle, false otherwise. Will always be false while not in a wave script.
 Player.isMoving = false
 --- (READONLY) gets the X position of the player's center relative to the arena's center
 Player.x = 0
