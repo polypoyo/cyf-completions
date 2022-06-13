@@ -8,6 +8,11 @@ local Bullet = {}
 ---@param y any
 function Bullet.Move(x,y)end
 
+--- Move this bullet to this position immediately, relative to the arena's center. 
+---@param x any
+---@param y any
+function Bullet.MoveTo(x,y)end
+
 --- Gets a variable that you previously set using `Bullet.SetVar`. 
 ---@param key string
 function Bullet.GetVar(key)end
