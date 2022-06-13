@@ -1,6 +1,13 @@
 ---@class Bullet
 local Bullet = {}
 
+--- Move this bullet `x` pixels to the right and `y` pixels up. 
+---
+--- A negative `x` will move it to the left, and a negative `y` will move it downwards. 
+---@param x any
+---@param y any
+function Bullet.Move(x,y)end
+
 --- Gets a variable that you previously set using `Bullet.SetVar`. 
 ---@param key string
 function Bullet.GetVar(key)end
