@@ -1,0 +1,8 @@
+* CYF Completions
+Installation:
+#+begin-src shell
+# Navigate to the mods folder...
+cd whereever-cyf-is/Mods
+# ...and clone the repository into .vscode
+git clone https://github.com/polypoyo/cyf-completions.git .vscode
+#+end-src
