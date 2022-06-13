@@ -1,4 +1,8 @@
 ---@class Bullet
+---@field x number
+---@field y number
+---@field absx number
+---@field absy number
 local Bullet = {}
 
 --- Move this bullet `x` pixels to the right and `y` pixels up. 
