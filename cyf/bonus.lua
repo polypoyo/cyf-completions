@@ -1,1 +1,2 @@
 ---@alias BulletColor "regular" | "cyan" | "orange" | "green"
+---@alias StateName "ACTIONSELECT" | "ENEMYDIALOGUE" | "DEFENDING" | "ATTACKING" | "ENEMYSELECT" | "ACTMENU" | "ITEMMENU" | "MERCYMENU" | "DIALOGRESULT" | "DONE" | "NONE" | string
