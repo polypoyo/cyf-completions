@@ -34,7 +34,8 @@
 		"lowercase-global",
 		"trailing-space",
 		"unbalanced-assignments",
-		"duplicate-doc-class"
+		"duplicate-doc-class",
+		"err-nonstandard-symbol"
 	],
 
 	"Lua.diagnostics.severity": {
